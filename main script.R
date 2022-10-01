@@ -1,0 +1,10 @@
+install.packages(c("dplyr", "tidyverse", "ggplot2", "dslabs", "ggrepel", "gtools"))
+library(ggplot2)
+library(dslabs)
+library(dplyr)
+library(tidyverse)
+library(tools)
+library(ggrepel)
+library(gtools)
+
+set.seed(1, sample.kind = "Rounding")
